@@ -1,0 +1,51 @@
+.Workout {
+    background-color: papayawhip;
+    width:800px;
+    height:600px;
+    align-items:center;
+    margin-left:350px;
+    padding:30px;
+    text-align: justify;
+    overflow:visible;
+    overflow-y: scroll;
+    margin-top:20px;
+
+}
+
+.Content {
+    text-align: center;
+    text-decoration-style: double;
+    text-transform: capitalize;
+    font-weight: 400;
+
+}
+
+.Workout img{
+    width:500px;
+    height:300px;
+    align-items: center;
+    padding:20px;
+    margin-left:150px;
+}
+
+.addWorkout {
+    margin-bottom:-10px;
+    width:30px;
+    height:30px;
+}
+
+.addWorkout:hover {
+    cursor: pointer;
+    background:gray;
+    width:40px;
+    height:40px;
+
+}
+
+.addWorkout:active{
+    cursor: pointer;
+    width:20px;
+    height:20px;
+    background-color: midnightblue;
+
+}

@@ -1,0 +1,12 @@
+.Backdrop{
+    width:20%;
+    height:100%;
+    position:fixed;
+    z-index:500;
+    left:0;
+    top:0;
+    background-color:rgb(0, 0, 0, 0.8);
+    color:white;
+    flex-flow: column;
+    
+}

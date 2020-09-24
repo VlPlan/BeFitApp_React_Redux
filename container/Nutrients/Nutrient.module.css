@@ -1,0 +1,17 @@
+.Nutrient {
+
+width:400px;
+height:200px;
+box-shadow: 0 5px 10px 0 black 0.4;
+transition: 0.3s;
+padding:3px 10px;
+background-color:powderblue;
+border-radius:10px;
+margin:10px;
+}
+
+.Nutrient:hover {
+    border:8px solid darkgreen;
+    box-shadow: 0 10px 20px 0 black 0.8;
+    cursor:pointer;
+}

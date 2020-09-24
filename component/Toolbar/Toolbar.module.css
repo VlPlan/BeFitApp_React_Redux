@@ -1,0 +1,49 @@
+.Toolbar{
+    height:60px;
+    width:100%;
+    position:fixed;
+    top:0;
+    left:0;
+    background-color: orangered;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    box-sizing:border-box; 
+    z-index:90; 
+    padding:0 20px;
+
+}
+
+.Toolbar nav{
+    height:100%;
+}
+
+.Toolbar .Logo{
+    height:80%;
+}
+
+.authLinks a {
+    color:white;
+    text-decoration:none;
+    text-transform: uppercase;
+    height:100%;
+    padding: 20px 30px;
+    font-weight:500;
+    float:right; 
+}
+
+.authLinks {
+    margin-left:700px;
+    display:inline-flex;
+    color:white;
+    margin-right:30px;
+}
+
+a:hover{
+    cursor: pointer;
+    color:black;
+}
+
+a:active{
+    color:gray;
+}

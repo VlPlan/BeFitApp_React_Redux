@@ -1,0 +1,27 @@
+.Content{
+
+    height:600px;
+    position:relative;
+    overflow: hidden;
+    border-top:10px double orangered;
+    margin:auto;
+   
+
+}
+
+.Content img {
+    width:100%;
+    
+}
+
+.text {
+    color: #f2f2f2;
+    font-size: 50px;
+    font-weight:400;
+    position: absolute; 
+    bottom:300px;
+    text-align:right;  
+   margin:10px;
+    text-transform: capitalize;
+  }
+

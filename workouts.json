@@ -1,0 +1,244 @@
+ {
+         "chest":
+         [
+             {
+                "id": "001",
+                "name": "Barbell bench press",
+                "description":"Position yourself on the bench with your feet firmly on the ground and your back flat (the bar should be directly over your eyes, and your head, shoulders, and buttocks should be on the bench). Grasp the barbell with palms forward and thumbs wrapped around the bar. Move the bar into starting position, with help from a spotter if needed. Position the bar over your chin or upper chest, keeping your elbows and wrists straight. Inhale and lower the bar slowly until it touches your chest below your armpits. As you lower, flare your elbows out slightly. Next, exhale and press the bar up, keeping your wrists straight and your back flat.",
+                "image": "barbellbench.jpg",
+               "tips":"Keep a tight grip on the bar at all times, a tighter grip equates to more tension in the lower arms, upper back and chest.Keep your chest up (thoracic extension) throughout the movement. Elbows should be tucked and end up at approximately 45 degrees from your side.Unrack the weight and take a deep breath and hold it.Row the weight down to your chest by pulling the bar apart like a bent over row. Do not relax and let the weight drop.Back, hips, glutes and legs are tight and isometrically contracted.When you touch your chest, drive your feet downward and reverse the movement.Lock out the elbows WITHOUT losing your arch and thoracic extension.",
+                "reps":"8-12 x 4" 
+            
+             },
+             {
+                "id": "002",
+                "name": "Barbell incline press",
+                "description":"Position your body on an incline bench on a 30-45 degree angle. Grab a barbell with an overhand grip that's shoulder-width apart and hold it above your chest. Extend arms upward, locking out elbows. Lower the bar straight down in a slow, controlled movement to your chest. Pause, then press the bar in a straight line back up to the starting position.",
+                "image": "barbellIncline.jpg",
+               "tips":"Keep the bar in line with your wrist and elbows and ensure it travels in a straight line. In order to keep the wrist straight, try to position the bar as low in the palm as possible while still being able to wrap the thumb.If you want to keep more tension through the triceps and chest, stop each repetition just short of lockout at the top.The bar should touch your chest with every single repetition. Tightness through the upper back should be one of your main priorities throughout the course of the lift.",
+                "reps":"8-12 x 4" 
+             },
+             {
+                "id": "003",
+                "name": "Dumbell incline press",
+                "description":"Set an adjustable bench to an incline of 30-45 degrees. Lie on your back on the bench and hold a pair of dumbbells directly above your shoulders with your arms fully extended. Pull your shoulder blades together, and slightly stick out your chest. Lower both dumbbells to the sides of your chest. Pause, and then press the dumbbells back to the starting position.",
+                "image": "dumbellIncline.jpg",
+               "tips":"A 45-degree angle on the adjustable bench should be the absolute upper limit for incline presses; any steeper and it’s basically a shoulder exercise. As you lower the dumbbells and press them back up, keep your upper arms at roughly 45 degrees to your torso, elbows pointed slightly forward. This will help you generate more power and also relieve unnecessary stress on the shoulder joints to help reduce injury risk.",
+                "reps":"8-12 x 4" 
+                
+             },
+             {
+                "id": "004",
+                "name": "Dumbell bench press",
+                "description":"Lying on your back on a bench, hold a pair of dumbbells directly above your sternum with your arms fully extended. Pull your shoulder blades together, slightly stick out your chest, and point your palms forward.Slowly lower both dumbbells to the sides of your chest. Pause, then press the dumbbells back to the starting position.",
+                "image": "dumbellPress.jpg",
+                "tips":"Keep you elbows close to your sides & maintain a neutral long spine to avoid hyperextending the neck.",
+                "reps":"8-12 x 4"               
+             },
+             {
+                "id": "005",
+                "name": "Incline dumbell flies",
+                "description":"Take a dumbbell in each hand and lie on a bench, feet firmly on the floor. Press your shoulders, back, head, and buttocks to the bench. Position the dumbbells near your chest and armpits with your palms facing inward. Keep your wrists straight. Exhale, pull in your abs, and slowly press the dumbbells up directly above your chest. Your arms should be shoulder-width apart. Keep your elbows straight but not locked. Inhale and lower the dumbbells slowly in a wide arc until they are level with your chest. Keep the dumbbells parallel. Fly the dumbbells toward the ceiling in the same gentle arc.",
+                "image": "dumbellFlies.jpg",
+                "tips":"Use a slight incline such as 30 degrees. Extremes are never the best option.Avoid touching or banging the dumbbells together at the top of each repetition in order to keep constant tension on the intended muscle groups.Always keep a slight bend in the elbows and never lower the weight to the point where you get any sort of pain and pressure at the front of the shoulder joint.Keep your feet flat on the floor, focus solely on keeping your elbows bent and activating your pecs.Ensure you maintain some tension in your abs and don’t allow your lower back to excessive arch.",
+                "reps":"12-15 x 3"              
+             },
+             {
+               "id": "006",
+               "name": "Cable chest flies",
+               "description":"Set the pulleys on a dual-cable machine to chest height, and stand between the two stacks. Grab the handles.Keeping your back straight and core engaged, raise your arms out to your sides, palms facing forward, and walk a step or two forward in order to create tension on the cables. Stand with one foot in front of the other.Bend your elbows slightly, making sure not to let them travel behind your shoulders. This is your starting position.Pull your hands toward each other in wide arcs in front of you, pausing when your hands touch before slowly returning to the starting position. Alternate your forward foot with each set.",
+               "image": "cableFlies.jpg",
+               "tips":"Don’t squeeze the handles excessively tight as this can over recruit the forearms and biceps thereby reducing activation of the pecs.Avoid touching or banging the handles together at peak contraction to keep constant tension on the intended muscle groups.Always keep a slight bend in the elbows and never lower the weight to the point where you get any sort of pain and pressure at the front of the shoulder joint.",
+               "reps":"12-15 x 3"               
+            },
+            {
+               "id": "007",
+               "name": "Decline chest press",
+               "description":"Keeping your abs engaged, lie back on a decline bench, holding a pair of dumbbells at the sides of your your chest. Your palms should be facing forward.With your feet flat on the floor, push the dumbbells over your chest.Pause, and then slowly lower the weights back to the starting position.",
+               "image": "declinePress.jpg",
+               "tips":"Hold at the Bottom,Staying tight throughout the entire movement minimizes the likelihood of injury,Keep your chest up, shoulders down, and squeeze your shoulder blades together as hard as possible.Throughout the entire lift your ankles should be touching and secured underneath the padded leg brace and your hamstrings, head, glutes, and upper back should be touching the padded support.",
+               "reps":"8-12 x 4"              
+            },
+            {
+               "id": "008",
+               "name": "Push-ups",
+               "description":"Start in a standard push-up position, with your feet together or no more than 12 inches apart, hands flat on the ground below your shoulders, and arms straight. Breathe in as you bend your elbows—keep them tracking back alongside your body—to lower your chest to slightly below the level of your bent elbow, and then breathe out as you push back up to the starting position for one repetition.",
+               "image": "pushUps.jpg",
+               "tips":"Push down on the floor and twist your palms outwards. Picture yourself trying to rip the floor into two. After twisting, your biceps and elbows should be parallel to your body.Doing this provides tension in your upper back, shoulder, and arms which makes it easier for you to keep your upper body in the proper position.Keep your neck in a neutral position at all times. Your body should form a straight line from your feet to your head when you have proper form.Lower yourself slowly to the ground. Draw your shoulders inwards when squeezing out push-ups. An easy way to do this is to draw your shoulders together during each rep. ",
+               "reps":"20 x 3"  
+            },
+            {
+               "id": "009",
+               "name": "Dips",
+               "description":"Grasp the parallel bars and hop up so your arms are straight. Lean forward at about a 45-degree angle, bend at the waist so your legs are vertical and pull your toes up toward your shins. Pull your shoulders down and back. Maintain this body position throughout the exercise.Slowly bend your elbows to lower your body into the Dip until your upper arms are about parallel to the ground. Keep your elbows tight to your body.Straighten your arms to drive your body up to the starting position.",
+               "image": "dips.jpg",
+               "tips":"Maintain a 45-degree angle with your upper body.Pull your shoulders down and back.Keep your core tight,your upper arms should be parallel to the ground and your elbows should be bent at approximately 90 degrees.Throughout an entire set of Dips, try to crush the handles with your hands and maintain strong wrists.",
+               "reps":"15-20 x 3"               
+            }
+
+         ],
+         
+         "back": [
+            {
+               "id": "010",
+               "name": "PullUp",
+               "description":"Start by hanging from the pullup bar for 10 to 30 seconds. You’ll begin to strengthen the muscles in your arms and back that are needed to complete a pullup.Pull your shoulders down and back, brace your core, and step off the box. Keep your chin above the bar as long as you can. When your chin drops below the bar, rest for two minutes. Repeat, trying to beat your previous time.",
+               "image": "pullUp.jpg",
+               "tips":"Put your thumbs around the bar.",
+               "reps":"12-15 x 3"               
+            },
+            {
+               "id": "011",
+               "name": "Barbell deadlift",
+               "description":"Step up to and under a barbell with your feet angled slightly outward, at hip width apart.Bend over and grip the barbell with both hands at shoulder width.Bend your knees until the bar almost touches your shins.With a neutral spine, flex your butt and brace your stomach.Pick the bar up off the ground, continue pressing down with your legs until the barbell passes your knees, then thrust your hips forward until you are standing up.Reverse your movement until the bar returns to its starting place on the ground.",
+               "image": "deadlift.jpg",
+               "tips":"Load the bar and secure the plates with collars.Step up to the bar as if you are about to JUMP. Naturally, your feet should end up about hip width (8-12 inches) apart, and your feet slightly angled outwards.",
+               "reps":"6-10 x 4"               
+            },
+            {
+               "id": "012",
+               "name": "Bent-Over Barbell Row",
+               "description":"Set up a barbell on the floor and stand facing it with your legs slightly wider than shoulder width apart and your knees slightly bent.Bend forward at your waist and grip the barbell with an overhand grip.Keep your back straight and nearly parallel to the floor.Keep your head and neck straight. This is the start position.Without moving your torso, exhale and lift the barbell up towards you.Keep your elbows close in to your bodyand use your forearms to support the weight.At the top of the movement, hold for a count of one and sqyeeze your back muscles.Return to the start position inhaling as you do so.",
+               "image": "barbellRow.png",
+               "tips":"Experiment with head position and see which option (looking forward vs. packing the neck) works better for you.Keep some tone through your abdominals as you pull the bar into your body to ensure you don’t arch excessively through your spine.Don’t allow momentum to dictate the movement, control the bar throughout the entirety of each rep.Don’t allow the head to jut forward as you pull.Similarly, ensure the shoulder blade moves on the rib cage. Don’t lock the shoulder blade down and just move through the glenohumeral joint.",
+               "reps":"8-10 x 4"               
+            },
+            {
+               "id": "013",
+               "name": "T-Bar Row",
+               "description":"Set up feet at shoulder width, hips set back and knees bent, assume a standing position with the bar positioned directly between your legs. Utilize a v-grip handle and place the bar directly in the notch of the v.Hinge forward until your torso is roughly parallel with the floor (or slightly above) and then begin the movement by driving the elbows behind the body while retracting the shoulder blades.Pull the bar towards your body until the plates touch your chest and then slowly lower the handle back to the starting position under control.",
+               "image": "tRow.jpg",
+               "tips":"Experiment with head position and see which option (looking forward vs. packing the neck) works better for you.Keep some tone through your abdominals as you pull the bar into your body to ensure you don’t arch excessively through your spine.Don’t allow momentum to dictate the movement, control the bar throughout the entirety of each rep.Don’t allow the head to jut forward as you pull.Similarly, ensure the shoulder blade moves on the rib cage. Don’t lock the shoulder blade down and just move through the glenohumeral joint.",
+               "reps":"8-10 x 4"               
+            },
+            {
+               "id": "014",
+               "name": "Single-Arm Dumbbell Row",
+               "description":"Holding a dumbbell in your right hand, bend over to place your left knee and left hand on a bench to support your body weight. Your hand should be placed directly under your shoulder and your knees should be positioned directly under your hips. Gently contract your abdominal / core muscles to stiffen your torso and stabilize your spine. Your back should be flat and head aligned with your spine. Depress and retract your scapulae (pull your shoulders down and back) without arching your low back and maintain this shoulder position throughout the exercise. Extend your right arm (holding the dumbbell) towards the floor without allowing your torso to rotate or shoulder to move towards the floor.Exhale and slowly pull the dumbbell upwards, bending your elbow and pulling your upper arm backwards. Keep your arm close to the side of your body and continue pulling the dumbbell upwards until you are unable to lift any further without rotating your torso. Avoid rotating your body or changing the position of your spine throughout the lift.Inhale and gently lower the dumbbell to your starting position while maintaining a flat back and retracted (pulled back) shoulder position.",
+               "image": "armRow.jpg",
+               "tips":"Try performing this exercise alongside a mirror to monitor any change in your back or shoulder position and check for trunk rotation.",
+               "reps":"8-10 x 4"               
+            }
+
+         ],
+
+         "shoulders": [
+            {
+               "id": "015",
+               "name": "Barbell Overhead Shoulder Press",
+               "description":"To start, put your feet at shoulder-width, and tighten your core as you hold a barbell at your shoulders, palms facing forward. Next, push the bar upward and squeeze your shoulder blades together at the peak. Lower steadily and carefully.",
+               "image": "standingBarbellPress.jpg",
+               "tips":"Take a shoulder-width grip.Aim for a grip with hands no wider than shoulder-width apart and keep your elbows directly underneath your wrists to keep you in the strongest mechanical position possible for the lift.The better the starting position of your wrists, the more able you are to initiate the move with a strong push. At the start of each rep focus on squeezing your shoulder blades together, then focus on using your shoulders to initiate the lift and get the bar moving. Lower the bar under control, ensuring that your shoulders are fully engaged and managing the weight with good form.You need to keep your chest up during each rep to maintain a strong and stable upper back.",
+               "reps":"8-12 x 4"               
+            },
+            {
+               "id": "016",
+               "name": "Seated Dumbbell Shoulder Press",
+               "description":"Set up an adjustable angle bench to 90 degrees and select the desired weight from the rack.Pick up the dumbbells from the floor using a neutral grip (palms facing in). Position the end of the dumbbells on your knees and sit down on the bench.Using a safe and controlled motion, kick your knees up one at a time in order to get each dumbbell into place.Once the dumbbells are in place, rotate your palms so they are facing forward.Take a deep breath then press the dumbbells overhead by extending the elbows and contracting the deltoids.Slowly lower the dumbbells back to the starting position (the arms should be roughly 90 degrees or slightly lower depending upon limb lengths).",
+               "image": "seatedDumbellPress.jpg",
+               "tips":"Keep your back flat against the pad throughout the duration of the exercise.Drive the bicep to the ear and exhale as you press.If you sense any pressure in your neck or traps during the movement, look to address a lack of thoracic spine extension or shoulder flexion.Keeping the elbows slightly bent at the top and not locking out entirely will help to keep tension on the shoulders.If you can’t lock out the elbows overhead than it may indicate a lack of shoulder mobility due to poor scapular upward rotation.",
+               "reps":"8-12 x 4"               
+            },
+            {
+               "id": "017",
+               "name": "Front dumbell raise",
+               "description":"Stand with feet about shoulder-width apart. Keep the back straight and feet planted flat on the floor. Your arms holding weights should hang down.Hold the dumbbells across the thighs horizontally, palms facing back toward the thighs. Ensure that you have a firm grip.Lift the weights upward, inhaling, with arms out in front and palms facing down. Keep a slight bend in the elbows to reduce the stress on the joints. Pause when the arms are approximately horizontal to the floor and feel the contraction in the shoulders.Return the dumbbells to the starting position at the thighs with a slow and controlled motion while exhaling.",
+               "image": "frontRaise.png",
+               "tips":"You must start with a light weight and plan to do 10 to 12 repetitions for one to three sets of exercises.",
+               "reps":"10-12 x 4"               
+            },
+            {
+               "id": "018",
+               "name": "Dumbell Lateral Raise",
+               "description":"Start in the standing position, keeping your feet shoulder-width apart, your abs tight, your chest up, your head straight, and your shoulders pinched. Hold the dumbbells at either side, retaining a neutral grip.Using just your shoulders and arms, raise the dumbbells a notch above shoulder level, and hold for a few seconds. Lower the dumbbells back to the starting position, and repeat. Your elbows and hands should be moving together in harmony the entire time, and you should be maintaining a neutral, balanced position. If you find that your core or neck is shifting as you perform each rep (i.e. you’re utilising your body’s momentum), lower the weight accordingly.",
+               "image": "dumbellLateratlRaise.jpg",
+               "tips":"The angle in your elbows at both the bottom of the rep should be the same it is at the top.The best way to build these target muscles is to maintain tension on the middle delt throughout each rep. If you bring your hand all the way down so that it's hanging by your side or in front of your thigh, you're not putting any tension on your delt at all.People usually do lateral raises to about shoulder height, even though the middle delt's range of motion extends further overhead.When you extend your range of motion above your shoulders, you'll probably have to back off on weight. You might consider a few heavier sets to shoulder level, followed by a few more with a slightly lighter weight taken about 45 degrees above parallel.",
+               "reps":"10-12 x 4"               
+            },
+            {
+               "id": "019",
+               "name": "Bent-Over Dumbell Lateral Raise",
+               "description":"Start with a dumbbell in each hand, keeping your chest up, your back flat, your knees slightly bent, and your eyes focussed toward a fixed point on the floor. Now, bend over until your core is basically parallel with the ground, and hang the dumbbells directly underneath you, all while keeping your elbows in a slightly bent position. Next, raise both dumbbells up and out to your sides, forming an arc until your upper arms are even with your torso. Take a brief pause at the top before lowering the dumbbells back into starting position. Repeat.",
+               "image": "bentOverLateralRaise.jpg",
+               "tips":"The angle in your elbows at both the bottom of the rep should be the same it is at the top.The best way to build these target muscles is to maintain tension on the middle delt throughout each rep. If you bring your hand all the way down so that it's hanging by your side or in front of your thigh, you're not putting any tension on your delt at all.People usually do lateral raises to about shoulder height, even though the middle delt's range of motion extends further overhead.When you extend your range of motion above your shoulders, you'll probably have to back off on weight. You might consider a few heavier sets to shoulder level, followed by a few more with a slightly lighter weight taken about 45 degrees above parallel.",
+               "reps":"10-12 x 4"               
+            }
+         ],
+
+         "arms": [
+            {
+               "id": "020",
+               "name": "Barbell biceps curls",
+               "description":"Stand while holding a barbell in both hands.Perform a barbell curl by flexing both elbows, keeping your shoulder blades retracted.Curl bar up to about chest level. Do not allow your lower back to arch. Keep your spine in a neutral position.Slowly lower the bar back to the original position by extending your elbows.",
+               "image": "barbellBicepsCurls.jpg",
+               "tips":"To decrease stress on your elbow, do not grip too close or too wide on the bar. To determine grip width, extend your elbows so your hands fall naturally to your sides, palms facing forward. Where your hands fall at your sides is the position where they should be when they grip the bar.",
+               "reps":"12-15 x 3"               
+            },
+            {
+               "id": "021",
+               "name": "Dumbell curls",
+               "description":"Stand with your feet flat on the floor, pointing straight ahead.Hold a dumbbell in each hand with arms at your sides; palms facing each other.Perform a hammer curl by performing elbow flexion while keeping your palms facing each other.Keep your shoulder blades retracted throughout the exercise.Slowly return dumbbells to their original position.",
+               "image": "dumbellCurls.jpg",
+               "tips":"The tension should be on the biceps at all times. Do not let them hang at the bottom of the exercise.Keep the rep timing slow and control the weight throughout the set.Do not let the dumbbells touch your body.",
+               "reps":"12-15 x 3"               
+            },
+            {
+               "id": "022",
+               "name": "Preacher curls",
+               "description":"Sit on the preacher bench and adjust the height so your armpits are just touching the top of the sloped section. Hold the weight using an underhand grip (palms facing up) with your arms extended and your upper arms resting on the bench. Curl the weight up, keeping your upper arms on the bench, until your forearms are vertical. Pause for a second at the top of the curl, then slowly lower the weight until your arms are fully extended once again. Count for three beats as you lower. Make sure your feet are planted on the ground, and that your torso and shoulders stay still throughout the movement.",
+               "image": "preacherCurls.jpg",
+               "tips":"Increase intensity by holding the top position of the preacher curl for 5 to 10 seconds. Really focus on squeezing the biceps and gripping the dumbbell as tightly as possible.This will increase time under tension and the burn in the biceps. Increased time under tension is an excellent variable to adjust for progressive overload and enhanced muscle growth.",
+               "reps":"10-12 x 3"               
+            },
+            {
+               "id": "023",
+               "name": "Kickbacks",
+               "description":"Prop the right foot on a step or platform, resting the right forearm on the thigh to support the back.Hold a weight in the left hand and pull the elbow up to torso level.Keeping the elbow in that position, extend the arm behind you, focusing on contracting the triceps.Lower the forearm down to about 90 degrees and repeat for 1-3 sets of 8-16 reps.Focus on keeping the upper arm stationary against the body throughout the exercise.",
+               "image": "kickbacks.jpg",
+               "tips":"Keep your abdominals pulled in and your knees relaxed, and don't allow your back to round.Don't lock your elbow at the top of the movement.Don't allow your upper arm to move or your shoulder to drop below waist-level.Keep your wrist straight.",
+               "reps":"12-15 x 3"               
+            },
+            {
+               "id": "024",
+               "name": "Triceps overhead extension",
+               "description":"Standing with feet hip distance apart holding dumbells straight overhead and keeping your spine long and abs tight.  Bend elbows lowering dumbbells behind the base of the head. Keep your elbows hugging in towards your head and pointing forward. Then extend your arms long returning to your starting position working the triceps.",
+               "image": "tricepsOverhead.jpg",
+               "tips":"Using a light to medium pair of dumbbells, the triceps get stronger and more toned as they work to press the dumbbells away.",
+               "reps":"10-12 x 3"               
+            },
+            {
+               "id": "025",
+               "name": "Skull crusher",
+               "description":"Lie on a bench, step or floor and hold the barbell with hands about shoulder-distance apart.Begin the exercise by extending the weight up over the head, palms facing out and thumbs next to the fingers.Bend the elbows and lower the weight until the elbows are at about 90-degree angles. This would be the part where you wouldn't want to crush your skull by going too low.Squeeze the triceps to straighten the arms without locking the joints.",
+               "image": "skullcrusher.jpg",
+               "tips":"You can also use dumbells. When performing this exercise, start with your elbows as low as you can while maintaining your forearm parallel to the floor. As you drive your arms towards your head, keep your forearms parallel to the floor until the top of your biceps gets roughly even with your chin. Once there in the range of motion, begin extending your elbows at a slight upward angle so you finish at the top of each rep with your humerus at roughly a 45-degree angle on each side of your head.",
+               "reps":"10-12 x 3"               
+            }
+         ],
+
+         "abs":[
+            {
+               "id": "030",
+               "name": "Plank",
+               "description":"Lying face down on the ground, prop yourself up into a forearm plank position. Make sure your elbows are aligned underneath your shoulders, and that your hands are balled up in fists. Your forearms should be parallel to one another. Hold for 10 to 20 seconds per set.",
+               "image": "plank.jpg",
+               "tips":"You know planks, right? It’s easy to go through the motions here. Don’t do it. “The key is to squeeze your entire body—quads, glutes, core, back, and fists—as tight as possible while taking diaphoretic breathes throughout the hold,” says Wealth. No matter how many times you’ve done it, this exercise is as difficult as you’re willing to make it.",
+               "reps":"1-2 mins x 3"               
+            }
+         ],
+         "legs":[
+            {
+               "id": "026",
+               "name": "Squats",
+               "description":"In a squat rack or cage, grasp the bar as far apart as is comfortable and step under it. Place it on your lower traps, squeeze your shoulder blades together, push your elbows up and nudge the bar out of the rack. Take a step or two back and stand with your feet at shoulder width and your toes turned slightly out. Take a deep breath and bend your hips back, then bend your knees to lower your body as far as you can without losing the arch in your lower back. Push your knees out as you descend. Drive vertically with your hips to come back up, continuing to push your knees out.",
+               "image": "squats.png",
+               "tips":"Keep your feet about shoulder-width apart.Your upper body also matters for squats,chest up.When you’re ready to squat, think about starting the movement by bending your knees and pushing your hips back.",
+               "reps":"8-12 x 4"               
+            }
+         
+
+         ]
+
+     }
+
+   

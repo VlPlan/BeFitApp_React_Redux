@@ -1,0 +1,33 @@
+.SideMenu {
+    position:fixed;
+    width:150px;
+    max-width:40%;
+    height:100%;
+    left:0;
+    top:0;
+    z-index:250;
+    background-color:chocolate;
+    padding:30px 15px;
+    transition:transform 0.2s ease-out;
+    box-sizing:border-box;
+    display:flex;
+    flex-flow: column;
+    
+
+}
+
+
+.Open{
+    transform: translateX(0);
+}
+
+
+
+.Close{
+    transform: translateX(-100%);
+}
+
+.Logo{
+    height:10%;
+    margin-bottom: 30px;
+}

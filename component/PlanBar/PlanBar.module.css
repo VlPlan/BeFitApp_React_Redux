@@ -1,0 +1,18 @@
+.PlanBar {
+    position: fixed;
+    z-index: 500;
+    background-color: orangered;
+    width: 500px;
+    height:500px;
+    border: 2px solid #ccc;
+    box-shadow: 1px 1px 1px black;
+    padding: 5px;
+    right: 5px;
+    top: 10%;
+    color:white;
+    overflow-y: scroll;
+    box-sizing: border-box;
+    transition: all 0.3s ease-in;
+    border-radius: 20%;
+    
+}

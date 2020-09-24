@@ -1,0 +1,44 @@
+.Control{
+    display:flex;
+    align-items: center;
+    margin:-10px 5px 0 5px;
+    padding:10px;
+}
+
+.Control button{
+    display:block;
+    width:30px;
+    height:20px;
+   
+}
+
+.Control .Minus {
+    background-color:red;
+    color:white;
+
+}
+
+.Control .Minus:hover,  .Control .Minus:active {
+    background-color:orange;
+    color:white;
+    cursor: pointer;
+    
+}
+
+.Control .Plus {
+    background-color:green;
+    color:white;
+
+}
+
+.Control .Plus:hover,  .Control .Plus:active {
+    background-color:olive;
+    color:white;
+    cursor: pointer;
+}
+
+.Control .Minus:disabled{
+    background-color:gray;
+    color:white;
+
+}

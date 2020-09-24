@@ -1,0 +1,60 @@
+.NavItem {
+
+    margin:0px 20px;
+    box-sizing: border-box;
+    display:block;   
+    
+}
+
+.NavItem a:hover,
+.NavItem a:active,
+.NavItem a.active {
+    color: grey;
+}
+
+.NavItem a {
+    color:white;
+    text-decoration:none;
+    text-transform: uppercase;
+    height:100%;
+    padding: 20px 10px;
+    font-weight:500;
+    float:right;
+}
+
+
+
+@media (max-width:500px){
+
+    .NavItem {
+        margin:0;
+        width:auto;
+
+        
+      
+    }
+    
+    .NavItem a{
+        color:white;
+        text-decoration:none;
+        text-transform: uppercase;
+        height:100%;
+        padding: 20px 10px;
+        font-weight:500;
+        float:right;
+
+        
+    }
+    
+    .NavItem a:hover,
+    .NavItem a:active,
+    .NavItem a.active{
+        color:grey;
+        cursor: pointer;
+     
+
+
+     
+        
+    }
+}

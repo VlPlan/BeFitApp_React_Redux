@@ -1,0 +1,49 @@
+.removeBtn {
+background-color: white;
+border:2px solid red;
+color:red;
+border-radius:50%;
+width:20px;
+height:20px;
+padding:3px;
+}
+
+.removeBtn:hover{
+    cursor: pointer;
+    color:white;
+    background-color:red;
+    border:1px solid red;
+    border-radius:50%;
+    padding:3px;
+    width:20px;
+    height:20px;    
+}
+
+button {
+    color:orangered;
+    border:1px solid orangered;
+    background-color: palegoldenrod;
+    border-radius:30px;
+    font-weight: 400px;
+    margin:5px;
+}
+
+button:hover {
+    color:slateblue;
+    border:1px solid slateblue;
+    background-color: palegoldenrod;
+    border-radius:30px;
+    font-weight: 400px;
+    margin:5px;
+    cursor: pointer;
+}
+
+button:active {
+    color:indigo;
+    border:1px solid indigo;
+    background-color: grey;
+    border-radius:30px;
+    font-weight: 400px;
+    margin:5px;
+    cursor: pointer;
+}
